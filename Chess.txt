@@ -1,0 +1,4 @@
+
+ >> Coup 1 : Joueur 1 	 Pion : F7 -> F5
+ >> Coup 2 : Joueur 2 	 Pion : E2 -> E4
+ >> Coup 3 : Joueur 1 	 Pion : F5 -> E4
