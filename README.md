@@ -16,4 +16,5 @@ We have 5 windows:
   - GameOver : it's the window that is started in the end of the game
 
   - Window1 : it's the first window displayed
+  
 ################
